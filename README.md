@@ -30,32 +30,6 @@ The dataset includes the following files:
 
 - 'run_analysis.R' : read and modify the data
 
-
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/features_info.txt': Shows information about the variables used on the feature vector.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/features.txt': List of all features.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/activity_labels.txt': Links the class labels with their activity name.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train/X_train.txt': Training set.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train/y_train.txt': Training labels.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/test/X_test.txt': Test set.
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/test/y_test.txt': Test labels.
-
-The following files are available for the train and test data. Their descriptions are equivalent. 
-
-- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector. The same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis. 
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
-
-- './getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
-
 Notes: 
 ======
 - Features are normalized and bounded within [-1,1].
